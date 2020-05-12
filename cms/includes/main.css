@@ -2381,6 +2381,7 @@ input, select, textarea {
 		border-top: solid 1px #d2d7dc;
 		margin-top: 3em;
 		padding-top: 3em;
+		padding-bottom: 1.5em;
 	}
 
 		#sidebar section:first-child {
